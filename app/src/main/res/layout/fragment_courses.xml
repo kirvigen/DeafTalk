@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:textColor="@color/orange"
+        android:fontFamily="@font/demibold"
+        android:layout_marginTop="46dp"
+        android:layout_marginLeft="26dp"
+        android:textSize="30sp"
+        android:text="@string/course"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="16dp"
+        android:id="@+id/recycler_courses"
+        android:layout_width="match_parent"
+        tools:itemCount="2"
+        tools:listitem="@layout/item_course"
+        android:layout_height="wrap_content"/>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
