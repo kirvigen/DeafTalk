@@ -4,5 +4,5 @@
 <img src="/screenshots/Android_Mobile__2.png" width="20%"></img>
 <img src="/screenshots/photo_2020-12-09_22-14-54.jpg" width="20%"></img>
 <img src="/screenshots/photo_2020-12-09_22-14-50.jpg" width="20%"></img>
-# DeafTalk
-This application is for helping deaf and dumb people and their relatives
+
+##This application is for helping deaf and dumb people and their relatives
