@@ -1,6 +1,7 @@
 package com.kirvigen.deaftalk.utils
 
 import android.content.Context
+import com.kirvigen.deaftalk.obj.Course
 
 class Utils {
     companion object{
@@ -13,5 +14,6 @@ class Utils {
                 throw RuntimeException("Error getting Resource ID.", e)
             }
         }
+
     }
 }
