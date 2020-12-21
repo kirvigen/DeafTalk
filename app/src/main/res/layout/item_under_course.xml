@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools">
-    <com.google.android.material.card.MaterialCardView
+    <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:cardCornerRadius="10dp"
@@ -22,11 +22,11 @@
             android:layout_margin="10dp"
             android:textStyle="bold"
             android:textColor="@color/black"
-            tools:text="«A»"
+            tools:text="«»"
             android:layout_gravity="start|center"
             android:layout_marginStart="10dp"
             android:layout_marginEnd="10dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
-    </com.google.android.material.card.MaterialCardView>
+    </androidx.cardview.widget.CardView>
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

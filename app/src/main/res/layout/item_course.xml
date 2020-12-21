@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     xmlns:app="http://schemas.android.com/apk/res-auto">
-    <com.google.android.material.card.MaterialCardView
+    <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="164dp"
         app:cardCornerRadius="10dp"
@@ -61,5 +61,5 @@
             tools:text = "33 слова"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
-    </com.google.android.material.card.MaterialCardView>
+    </androidx.cardview.widget.CardView>
 </LinearLayout>

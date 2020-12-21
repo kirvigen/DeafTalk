@@ -14,6 +14,5 @@ class Utils {
                 throw RuntimeException("Error getting Resource ID.", e)
             }
         }
-
     }
 }

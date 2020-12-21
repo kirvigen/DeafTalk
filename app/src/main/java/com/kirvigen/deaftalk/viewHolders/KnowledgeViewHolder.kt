@@ -2,6 +2,7 @@ package com.kirvigen.deaftalk.viewHolders
 
 import android.content.Context
 import android.view.View
+import com.bumptech.glide.Glide
 import com.kirvigen.deaftalk.R
 import com.kirvigen.deaftalk.obj.Course
 import com.kirvigen.deaftalk.obj.Knowledge
@@ -27,7 +28,12 @@ class KnowledgeViewHolder:DelegateHolder  {
         item?.let {
             val knowledge = it as Knowledge
             name.text = knowledge.name
-            image.setImageResource(Utils.getResourseId(image.context,knowledge.image,"raw"))
+            val r = Utils.getResourseId(image.context,knowledge.image,"raw")
+            Glide
+                .with(image)
+                .load(r)
+                .centerCrop()
+                .into(image)
             container.setOnClickListener { OnClickKnowledgeListener?.let { it(knowledge) } }
         }
     }

@@ -1,0 +1,214 @@
+[
+  {
+    "dop": "33 буквы",
+    "icon": "ic_aa",
+    "header": "Алфавит",
+    "description": "Весь русский алфавит в жестах",
+    "items": [
+      {
+        "name": "А",
+        "path": "aysjltmp"
+      },
+      {
+        "name": "Б",
+        "path": "kiomolta"
+      },
+      {
+        "name": "В",
+        "path": "juqtcikt"
+      },
+      {
+        "name": "Г",
+        "path": "rqjfyjvx"
+      },
+      {
+        "name": "Д",
+        "path": "drtahjkt"
+      },
+      {
+        "name": "Е",
+        "path": "roilgowz"
+      },
+      {
+        "name": "Ж",
+        "path": "helvclyu"
+      },
+      {
+        "name": "З",
+        "path": "bxfqguxr"
+      },
+      {
+        "name": "И",
+        "path": "ksibybhp"
+      },
+      {
+        "name": "Й",
+        "path": "pdlxwczy"
+      },
+      {
+        "name": "К",
+        "path": "cwanpxql"
+      },
+      {
+        "name": "Л",
+        "path": "hpqmfujz"
+      },
+      {
+        "name": "М",
+        "path": "grscuekf"
+      },
+      {
+        "name": "Н",
+        "path": "ugusgysc"
+      },
+      {
+        "name": "О",
+        "path": "isxiqwmf"
+      },
+      {
+        "name": "П",
+        "path": "uodbmhvz"
+      },
+      {
+        "name": "Р",
+        "path": "smyewcao"
+      },
+      {
+        "name": "С",
+        "path": "dsmfcrox"
+      },
+      {
+        "name": "Т",
+        "path": "vmhjeryq"
+      },
+      {
+        "name": "У",
+        "path": "azcxwkmi"
+      },
+      {
+        "name": "Ф",
+        "path": "kejihacj"
+      },
+      {
+        "name": "Х",
+        "path": "ynipbhdf"
+      },
+      {
+        "name": "Ц",
+        "path": "rmcsbefp"
+      },
+      {
+        "name": "Ч",
+        "path": "wztmigjo"
+      },
+      {
+        "name": "Ш",
+        "path": "ijhdonri"
+      },
+      {
+        "name": "Щ",
+        "path": "gcaqstxm"
+      },
+      {
+        "name": "Ъ",
+        "path": "fetefget"
+      },
+      {
+        "name": "Ы",
+        "path": "drxxxddl"
+      },
+      {
+        "name": "Ь",
+        "path": "zwhzfafa"
+      },
+      {
+        "name": "Э",
+        "path": "uoaubbup"
+      },
+      {
+        "name": "Ю",
+        "path": "qpxmlaag"
+      },
+      {
+        "name": "Я",
+        "path": "qbckmrsj"
+      }
+    ]
+  },
+  {
+    "dop": "4 слова",
+    "icon": "ic_hello",
+    "header": "Базовые слова",
+    "description": "Слова и фразы для бытового общения",
+    "items": [
+      {
+        "name": "Да",
+        "path": "jbligseg"
+      },
+      {
+        "name": "Здравствуйте",
+        "path": "wnctczqa"
+      },
+      {
+        "name": "Извините",
+        "path": "kuqsvrdd"
+      },
+      {
+        "name": "Меня зовут",
+        "path": "xuxccnfx"
+      },
+      {
+        "name": "Пожалуйста",
+        "path": "ejkemjnn"
+      }
+    ]
+  },
+  {
+    "dop": "4 слова",
+    "header": "Хобби",
+    "icon": "ic_origami",
+    "description": "Жесты для обозначения увлечений и занятий",
+    "items": [
+      {
+        "name": "Архитектура",
+        "path": "gqahymwy"
+      },
+      {
+        "name": "Литература",
+        "path": "lqhtgmos"
+      },
+      {
+        "name": "Музыка",
+        "path": "jzlomqzk"
+      },
+      {
+        "name": "Танец",
+        "path": "qxdwcyjj"
+      }
+    ]
+  },
+  {
+    "dop": "4 места",
+    "header": "Места",
+    "icon": "ic_place",
+    "description": "жесты, обозначающие место расположения чего-либо",
+    "items": [
+      {
+        "name": "Аэропорт",
+        "path": "yfankevd"
+      },
+      {
+        "name": "Кафе",
+        "path": "jlqgxugg"
+      },
+      {
+        "name": "Море",
+        "path": "lupwkbmd"
+      },
+      {
+        "name": "Цирк",
+        "path": "wibflfjg"
+      }
+    ]
+  }
+]
